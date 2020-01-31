@@ -1,0 +1,4 @@
+#Fri Jan 31 13:59:18 EAT 2020
+base.0=C\:\\Users\\LEON\\Desktop\\TwoActivities\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
